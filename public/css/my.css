@@ -1,0 +1,107 @@
+nav{
+    font-size:13px;
+}
+.nav2{
+    background-color: rgb(35, 34, 41);
+}
+.nav-item{
+    margin: 5px;
+}
+.nav-2 .nav-item{
+    padding:4px;
+}
+.nav-link{
+    padding: 0px 5px;
+}
+.nav-2 .bg-dark{ 
+    background-color: rgb(110, 110, 206);
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+li{
+    height: fit-content;
+}
+form{
+    height: fit-content;
+    padding-top: 10px;
+}
+.bars{
+    border-color: rgba(22, 22, 41, 0.747);
+    margin-bottom: 2px;
+    margin-left: 5px;
+    padding: 4px;
+}
+.logo{
+    margin-left: 5px;
+}
+.signin{
+    padding: 0rem 1rem;
+}
+.nav-item:hover{
+    border:1px solid white;
+    border-radius: 5px;
+}
+.btn-outline-light:hover{
+    background-color: rgb(30, 30, 41);
+    color:white
+}
+.btn-secondary{
+    background-color: rgb(223, 223, 223);
+    color: black;
+    border-radius: 5px 0px 0px 5px;
+}
+.btn-secondary:hover{
+    background-color: rgb(211, 211, 211);
+    color:black
+}
+.signin-page{
+    padding: 20px  80px;
+    height: fit-content;
+}
+.prev, .next{
+    cursor:pointer;
+    position:absolute;
+    top:5%;
+    width:auto;
+    bottom:60%;
+    margin-top:-22px;
+    padding:15px;
+    color:rgb(15, 13, 13);
+    border:2px solid black;
+    background-color: rgb(147, 147, 151);
+    font-weight:bold;
+    font-size: 2rem;
+    transition: 0.5s ease;
+    border-radius: 0 4px 4px 0;
+    user-select: none;
+}
+.cardd{
+    margin-top: -350px;
+}
+.productImg{
+    width:200px;
+    height: 250px;
+}
+.BackToTop{
+    text-align: center;
+    align-items: center;
+    background-color: rgb(66, 66, 85);
+    color:white;
+    height: 40px;
+}
+.FooterNav1{
+    background-color: rgb(48, 53, 71);
+}
+.FooterNav2{
+    font-size: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+}
+.footerlink{
+    margin-right: 10px;
+}
+.nav11{
+    margin-top:50px;
+}
