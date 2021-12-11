@@ -112,8 +112,8 @@ function HeaderView(props) {
                             </a>
                             <div className="dropdown-menu" aria-labelledby="navbarDropdown">
                                 <div className="signin-page justify-content-center">
-                                    <div className="row "> <a href="" className="btn btn-warning w-75 btn-sm font-weight-bold">Signin</a></div>
-                                    <div className="row "><small>New customer?<a href=""> Start here.</a></small></div>
+                                    <div className="row "> <a href="Login.html" className="btn btn-warning w-75 btn-sm font-weight-bold signin-btn">Sign in</a></div>
+                                    <div className="row "><small>New customer?<a href="Register.html"> Start here.</a></small></div>
                                     
                                 </div>
                             </div>
